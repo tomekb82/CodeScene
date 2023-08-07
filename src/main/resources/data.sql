@@ -1,0 +1,10 @@
+INSERT INTO categories (name) VALUES ('MALE_HAIRCUT');
+INSERT INTO categories (name) VALUES ('FAMALE_HAIRCUT');
+INSERT INTO categories (name) VALUES ('SKIN_FADE');
+INSERT INTO categories (name) VALUES ('HAIRCUT_AND_BEARD');
+INSERT INTO categories (name) VALUES ('BEARD_TRIM');
+INSERT INTO categories (name) VALUES ('KIDS_HAIRCUT');
+INSERT INTO categories (name) VALUES ('GEL_MANICURE');
+INSERT INTO categories (name) VALUES ('EYELASH_MANICURE');
+INSERT INTO categories (name) VALUES ('HAIR_DESIGN');
+INSERT INTO categories (name) VALUES ('BEARD_SHAPING');
